@@ -1,6 +1,6 @@
 # Assignment
 
-Off-Platform Project: Dasmoto's Arts & Crafts
+Off-Platform Project: Dasmoto's Arts & Crafts (Codecademy)
 
 # Source
 
